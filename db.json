@@ -32,6 +32,46 @@
       },
       {
         "id": 3,
+        "name": "Vadonut",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "category": "appetizer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      },
+      {
+        "id": 4,
+        "name": "Vadonut",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "category": "appetizer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      },
+      {
+        "id": 5,
+        "name": "Vadonut",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "category": "appetizer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      },
+      {
+        "id": 6,
+        "name": "Vadonut",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "category": "appetizer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      },
+      {
+        "id": 7,
         "name": "ElaiCheese Cake",
         "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
         "category": "dessert",
