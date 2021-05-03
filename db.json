@@ -3,7 +3,7 @@
       {
         "id": 0,
         "name": "Uthappizza",
-        "image": "https://user-images.githubusercontent.com/67665378/116821405-12850780-ab7a-11eb-9607-4cdccc18677b.png",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
         "category": "mains",
         "label": "Hot",
         "price": "4.99",
@@ -13,7 +13,7 @@
       {
         "id": 1,
         "name": "Zucchipakoda",
-        "image": "https://user-images.githubusercontent.com/67665378/116821405-12850780-ab7a-11eb-9607-4cdccc18677b.png",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
         "category": "appetizer",
         "label": "",
         "price": "1.99",
@@ -23,7 +23,7 @@
       {
         "id": 2,
         "name": "Vadonut",
-        "image": "https://user-images.githubusercontent.com/67665378/116821405-12850780-ab7a-11eb-9607-4cdccc18677b.png",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
         "category": "appetizer",
         "label": "New",
         "price": "1.99",
@@ -33,7 +33,7 @@
       {
         "id": 3,
         "name": "ElaiCheese Cake",
-        "image": "https://user-images.githubusercontent.com/67665378/116821405-12850780-ab7a-11eb-9607-4cdccc18677b.png",
+        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
         "category": "dessert",
         "label": "",
         "price": "2.99",
@@ -207,7 +207,7 @@
       {
         "id": 0,
         "name": "Weekend Grand Buffet",
-        "image": "images/buffet.png",
+        "image": "https://user-images.githubusercontent.com/67665378/116826853-71f11080-ab96-11eb-953f-c2d31e6852f5.png",
         "label": "New",
         "price": "19.99",
         "featured": true,
@@ -218,7 +218,7 @@
       {
         "id": 0,
         "name": "Peter Pan",
-        "image": "images/alberto.png",
+        "image": "https://user-images.githubusercontent.com/67665378/116821405-12850780-ab7a-11eb-9607-4cdccc18677b.png",
         "designation": "Chief Epicurious Officer",
         "abbr": "CEO",
         "featured": false,
