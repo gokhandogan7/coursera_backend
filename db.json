@@ -2,81 +2,81 @@
     "dishes": [
       {
         "id": 0,
-        "name": "Uthappizza",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "Xiomi RedMi 10",
+        "image": "https://user-images.githubusercontent.com/67665378/117075513-3d678b00-ad35-11eb-8884-7535088cac5e.png",
         "category": "mains",
         "label": "Hot",
-        "price": "4.99",
+        "price": "599.99",
         "featured": true,
         "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
       },
       {
         "id": 1,
-        "name": "Zucchipakoda",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "Huawei P40 Pro",
+        "image": "https://user-images.githubusercontent.com/67665378/117075645-7acc1880-ad35-11eb-8921-8c0a411b99e1.png",
         "category": "appetizer",
         "label": "",
-        "price": "1.99",
+        "price": "499.99",
         "featured": false,
         "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
       },
       {
         "id": 2,
-        "name": "Vadonut",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "Samsung Note10 Lite",
+        "image": "https://user-images.githubusercontent.com/67665378/117075741-9d5e3180-ad35-11eb-911a-18227390e293.jpg",
         "category": "appetizer",
         "label": "New",
-        "price": "1.99",
+        "price": "699.99",
         "featured": false,
         "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
       },
       {
         "id": 3,
-        "name": "Vadonut",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "Samsung Smart TV",
+        "image": "https://user-images.githubusercontent.com/67665378/117076304-7a804d00-ad36-11eb-866d-b4e37d7799be.jpg",
         "category": "appetizer",
         "label": "New",
-        "price": "1.99",
+        "price": "449.99",
         "featured": false,
         "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
       },
       {
         "id": 4,
-        "name": "Vadonut",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "Lenovo Notebook",
+        "image": "https://user-images.githubusercontent.com/67665378/117076357-8ec44a00-ad36-11eb-9139-49cc9b4e2254.png",
         "category": "appetizer",
         "label": "New",
-        "price": "1.99",
+        "price": "599.99",
         "featured": false,
         "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
       },
       {
         "id": 5,
-        "name": "Vadonut",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "Airpods",
+        "image": "https://user-images.githubusercontent.com/67665378/117076434-a8659180-ad36-11eb-91b7-88057e10b6f4.jpg",
         "category": "appetizer",
         "label": "New",
-        "price": "1.99",
+        "price": "99.99",
         "featured": false,
         "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
       },
       {
         "id": 6,
-        "name": "Vadonut",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "HP Desktop",
+        "image": "https://user-images.githubusercontent.com/67665378/117076733-32adf580-ad37-11eb-9017-289517a9bc46.jpg",
         "category": "appetizer",
         "label": "New",
-        "price": "1.99",
+        "price": "399.99",
         "featured": false,
         "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
       },
       {
         "id": 7,
-        "name": "ElaiCheese Cake",
-        "image": "https://user-images.githubusercontent.com/67665378/116944709-4cd3cf00-ac76-11eb-9bc8-8a85846dfb16.png",
+        "name": "Canon Digital Camera",
+        "image": "https://user-images.githubusercontent.com/67665378/117076703-1e69f880-ad37-11eb-9547-75387654991d.jpg",
         "category": "dessert",
         "label": "",
-        "price": "2.99",
+        "price": "299.99",
         "featured": false,
         "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
       }
@@ -246,8 +246,8 @@
     "promotions": [
       {
         "id": 0,
-        "name": "Weekend Grand Buffet",
-        "image": "https://user-images.githubusercontent.com/67665378/116826853-71f11080-ab96-11eb-953f-c2d31e6852f5.png",
+        "name": "Father's Day Opportunity",
+        "image": "https://user-images.githubusercontent.com/67665378/117067116-e7411a80-ad29-11eb-9ba8-bc641f37c2d0.png",
         "label": "New",
         "price": "19.99",
         "featured": true,
@@ -257,35 +257,35 @@
     "leaders": [
       {
         "id": 0,
-        "name": "Peter Pan",
-        "image": "https://user-images.githubusercontent.com/67665378/116821405-12850780-ab7a-11eb-9607-4cdccc18677b.png",
+        "name": "Bill Hates",
+        "image": "https://user-images.githubusercontent.com/67665378/117070922-b44d5580-ad2e-11eb-8710-3dbb20f72004.jpg",
         "designation": "Chief Epicurious Officer",
         "abbr": "CEO",
         "featured": false,
-        "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+        "description": "Our CEO, Bill, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
       },
       {
         "id": 1,
-        "name": "Dhanasekaran Witherspoon",
-        "image": "images/alberto.png",
-        "designation": "Chief Food Officer",
+        "name": "James Sosling",
+        "image": "https://user-images.githubusercontent.com/67665378/117071035-d7780500-ad2e-11eb-817e-9d8e34801ce9.jpg",
+        "designation": "Chief Financial Officer",
         "abbr": "CFO",
         "featured": false,
-        "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+        "description": "Our CFO, James, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
       },
       {
         "id": 2,
-        "name": "Agumbe Tang",
-        "image": "images/alberto.png",
-        "designation": "Chief Taste Officer",
+        "name": "Guido Van Mossum",
+        "image": "https://user-images.githubusercontent.com/67665378/117071169-02faef80-ad2f-11eb-910b-b024df889dd6.jpg",
+        "designation": "Chief Technology Officer",
         "abbr": "CTO",
         "featured": false,
         "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
       },
       {
         "id": 3,
-        "name": "Alberto Somayya",
-        "image": "images/alberto.png",
+        "name": "Brendan Uich",
+        "image": "https://user-images.githubusercontent.com/67665378/117071441-6dac2b00-ad2f-11eb-8a95-46c7da483b47.jpg",
         "designation": "Executive Chef",
         "abbr": "EC",
         "featured": true,
@@ -294,13 +294,13 @@
     ],
     "feedback": [
       {
-        "firstname": "fdas",
-        "lastname": "afds",
-        "telnum": "134113",
-        "email": "dafdads@daffas.dfdafd",
+        "firstname": "Gökhsn",
+        "lastname": "Dogan",
+        "telnum": "12345698778",
+        "email": "gd13@gmail.com",
         "agree": true,
         "contactType": "Email",
-        "message": "afadsfds",
+        "message": "Great experience",
         "date": "2017-12-04T09:41:49.890Z",
         "id": 1
       }
