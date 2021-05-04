@@ -32,11 +32,11 @@
       },
       {
         "id": 3,
-        "name": "Samsung Smart TV",
-        "image": "https://user-images.githubusercontent.com/67665378/117076304-7a804d00-ad36-11eb-866d-b4e37d7799be.jpg",
+        "name": "IPhone 11",
+        "image": "https://user-images.githubusercontent.com/67665378/117077366-43ab3680-ad38-11eb-826a-0d2ed5e741dc.jpg",
         "category": "appetizer",
         "label": "New",
-        "price": "449.99",
+        "price": "749.99",
         "featured": false,
         "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
       },
