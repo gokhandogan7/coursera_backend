@@ -8,7 +8,7 @@
         "label": "Hot",
         "price": "599.99",
         "featured": true,
-        "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+        "description": "6.47 inch 3D curved AMOLED display Corning Gorilla glass front and back, 1080x2340 pixels 398 PPI - HDR 10 - Responsive in-screen fingerprint sensor - TÜV Rheinland low blue light mode. 128 GB phone storage + 6GB RAM - Qualcomm Snapdragon 730G - 5260mAh typ high-capacity battery - Multifunctional NFC Main camera 108MP ultra high-resolution camera + 12MP portrait camera + 5MP telephoto camera + 20MP ultra wide-angle camera + 2MP macro camera - Front Camera 32MP selfie camera - 4K recording - 1080P slow motion recording - Vlog mode & Night mode 2.0"
       },
       {
         "id": 1,
@@ -267,7 +267,7 @@
       {
         "id": 1,
         "name": "James Sosling",
-        "image": "https://user-images.githubusercontent.com/67665378/117071035-d7780500-ad2e-11eb-817e-9d8e34801ce9.jpg",
+        "image": "https://user-images.githubusercontent.com/67665378/117077674-d51aa880-ad38-11eb-96d5-cafa84dfd193.jpg",
         "designation": "Chief Financial Officer",
         "abbr": "CFO",
         "featured": false,
